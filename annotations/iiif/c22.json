@@ -22,9 +22,8 @@
       "target": {
         "source": "https://surinametimemachine.github.io/iiif-suriname/canvas/c22",
         "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=pixel:955,870,31,16"
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"955,878 956,886 957,886 959,886 960,886 962,886 964,885 966,885 967,885 970,884 971,884 972,884 974,884 975,884 976,883 977,882 979,881 980,880 981,880 982,879 983,878 984,877 985,876 985,875 986,875 986,874 985,871 984,870 983,870 983,871 982,871 980,871 979,871 978,872 977,872 976,873 975,874 974,875 973,875 972,876 970,876 969,876 968,877 966,877 965,878 962,879 961,879 959,879 958,879 956,879 955,878 955,878\"/></svg>"
         },
         "generator": {
           "id": "https://github.com/maps-as-data/MapTextPipeline",
