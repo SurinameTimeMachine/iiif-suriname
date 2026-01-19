@@ -1,0 +1,1407 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "45e4eea2-0b47-4935-9ab6-0bdc6c4ce970",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Kreeft",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "knaegt",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"1471,3709 1498,3733 1500,3728 1502,3726 1505,3722 1508,3719 1511,3715 1515,3712 1518,3709 1521,3706 1525,3702 1530,3698 1533,3694 1535,3690 1539,3685 1542,3683 1546,3679 1549,3675 1551,3670 1552,3668 1554,3664 1555,3661 1555,3658 1555,3655 1555,3651 1555,3647 1544,3639 1542,3640 1540,3641 1536,3643 1533,3644 1530,3646 1526,3648 1524,3650 1521,3654 1517,3657 1513,3661 1510,3664 1507,3669 1504,3673 1501,3676 1499,3680 1496,3685 1492,3688 1490,3692 1487,3694 1484,3698 1481,3702 1478,3705 1475,3708 1471,3709 1471,3709\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "328a3621-7e7d-4ebf-b1b9-57b6f0db1fc9",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Jerema",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jeremai",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"1799,3817 1765,3842 1769,3846 1774,3851 1776,3856 1780,3863 1782,3867 1786,3873 1789,3879 1791,3884 1796,3891 1798,3896 1802,3903 1805,3909 1808,3914 1810,3919 1814,3924 1818,3932 1819,3936 1825,3941 1831,3947 1834,3951 1836,3952 1842,3956 1843,3961 1847,3963 1856,3956 1857,3951 1859,3945 1854,3939 1856,3937 1852,3932 1849,3926 1847,3921 1845,3917 1842,3909 1840,3904 1836,3899 1835,3893 1832,3886 1828,3879 1825,3873 1821,3866 1818,3861 1815,3854 1812,3847 1810,3841 1807,3835 1805,3828 1802,3823 1799,3817 1799,3817\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "d1d11c80-6409-43dd-8a2a-0893de8c2ba5",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "kn>",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "t",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"1893,3942 1866,3977 1867,3978 1868,3979 1870,3980 1872,3981 1873,3983 1876,3984 1879,3988 1883,3990 1884,3993 1885,3995 1887,3997 1889,3999 1892,3998 1893,3999 1896,4001 1897,4001 1899,4002 1900,4003 1902,4003 1904,4003 1907,4000 1908,3999 1911,3998 1913,3993 1915,3997 1917,3991 1916,3990 1917,3987 1920,3984 1921,3982 1922,3979 1921,3976 1920,3973 1919,3971 1919,3970 1917,3968 1916,3965 1914,3963 1912,3962 1909,3961 1907,3960 1905,3958 1904,3957 1902,3952 1899,3949 1897,3946 1896,3945 1894,3944 1893,3942 1893,3942\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "60fba027-7ac4-411d-8bdd-91d356521308",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Lucas",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "Lucas",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"2148,2587 2162,2622 2165,2619 2169,2617 2174,2615 2177,2612 2182,2609 2186,2609 2191,2606 2196,2603 2200,2603 2205,2601 2210,2598 2214,2596 2220,2596 2225,2593 2229,2591 2234,2590 2237,2588 2242,2585 2244,2582 2248,2580 2250,2577 2252,2575 2254,2572 2256,2569 2251,2559 2247,2558 2244,2557 2241,2556 2238,2555 2235,2556 2230,2556 2225,2557 2221,2559 2216,2560 2212,2561 2207,2563 2203,2566 2197,2567 2193,2569 2189,2571 2184,2574 2179,2576 2175,2577 2169,2581 2165,2582 2161,2583 2156,2585 2152,2587 2148,2587 2148,2587\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f4d8d6a0-c4f8-4efa-9161-1b9320908eef",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Doengroe",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "Comngrdt",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"1975,2161 1984,2196 1989,2194 1997,2192 2006,2189 2015,2187 2023,2186 2030,2185 2035,2184 2043,2182 2050,2182 2056,2179 2063,2177 2072,2175 2076,2172 2083,2169 2090,2167 2097,2163 2104,2160 2109,2156 2113,2154 2117,2152 2120,2149 2125,2146 2130,2142 2134,2136 2131,2128 2125,2127 2119,2128 2113,2129 2109,2130 2105,2130 2100,2131 2094,2132 2087,2135 2079,2138 2073,2139 2066,2142 2061,2144 2053,2146 2047,2148 2040,2150 2034,2152 2025,2154 2021,2156 2014,2157 2007,2158 1998,2160 1988,2161 1981,2163 1975,2161 1975,2161\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "68cf9327-01f0-4683-ba0e-b4d32ed3ef31",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Pott",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "er",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"2138,2112 2131,2144 2134,2143 2135,2145 2138,2144 2140,2145 2140,2147 2147,2147 2151,2148 2154,2151 2157,2151 2159,2151 2164,2154 2166,2155 2167,2157 2171,2158 2174,2159 2175,2161 2177,2162 2180,2162 2182,2162 2183,2162 2185,2161 2186,2160 2188,2158 2190,2157 2192,2151 2193,2148 2193,2146 2193,2144 2194,2140 2193,2137 2192,2134 2189,2132 2187,2130 2186,2129 2182,2126 2181,2125 2178,2124 2175,2123 2170,2120 2166,2120 2164,2119 2158,2117 2155,2115 2152,2114 2147,2115 2145,2113 2141,2114 2138,2114 2138,2112 2138,2112\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "7017337a-ad65-439a-84c6-13465db2a2bf",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Mam##",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "Maria",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"2727,4069 2739,4106 2744,4104 2749,4103 2754,4101 2759,4099 2764,4097 2770,4096 2776,4095 2782,4092 2787,4091 2794,4090 2800,4087 2806,4086 2811,4085 2816,4084 2820,4083 2825,4080 2830,4079 2834,4077 2838,4075 2845,4072 2850,4069 2855,4065 2857,4064 2859,4058 2857,4049 2853,4048 2851,4048 2845,4047 2840,4047 2833,4047 2827,4047 2822,4047 2817,4047 2811,4048 2807,4049 2801,4050 2796,4051 2790,4053 2784,4055 2778,4058 2772,4060 2767,4061 2761,4063 2756,4064 2750,4065 2744,4067 2739,4067 2735,4068 2727,4069 2727,4069\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "fe7dc86a-3f3d-4a6a-976f-e7c99ec63ec9",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Kn",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "t",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"1890,3943 1863,3972 1865,3974 1869,3973 1870,3976 1872,3977 1874,3979 1874,3980 1877,3986 1879,3988 1880,3991 1881,3994 1882,3996 1884,3996 1887,3997 1888,3998 1890,3999 1892,4000 1894,4000 1895,4000 1897,4001 1899,4002 1901,4000 1902,3999 1904,3999 1906,3995 1909,3998 1911,3992 1912,3988 1915,3988 1916,3984 1917,3980 1917,3977 1917,3975 1916,3973 1917,3971 1914,3971 1914,3969 1912,3967 1910,3965 1907,3963 1905,3960 1902,3958 1902,3958 1897,3952 1895,3949 1893,3948 1891,3946 1891,3945 1890,3943 1890,3943\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "82ded4fc-419f-45c5-aa9f-99e6a9435ac0",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Brafit",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "Brapit",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"3206,4328 3225,4363 3230,4359 3234,4356 3240,4353 3245,4350 3249,4347 3255,4345 3260,4342 3265,4341 3271,4338 3277,4336 3282,4333 3287,4330 3293,4326 3297,4323 3303,4319 3307,4317 3310,4314 3316,4312 3320,4308 3323,4304 3325,4300 3327,4298 3327,4294 3329,4289 3322,4275 3318,4276 3314,4275 3312,4275 3307,4275 3302,4276 3298,4278 3293,4280 3287,4282 3283,4284 3278,4287 3272,4291 3268,4294 3262,4297 3257,4301 3252,4304 3246,4307 3242,4310 3236,4313 3232,4317 3226,4319 3221,4321 3216,4323 3211,4327 3206,4328 3206,4328\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "cd995c4d-ab9e-4b8e-981d-3920832a6719",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Mesias",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "Mesias",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"4196,366 4185,407 4193,406 4198,407 4204,408 4210,409 4217,410 4223,412 4228,414 4235,415 4242,417 4248,418 4255,420 4261,421 4268,423 4274,423 4279,424 4286,424 4291,425 4296,425 4302,424 4308,424 4313,423 4317,422 4321,422 4325,420 4327,405 4324,402 4321,400 4317,398 4314,394 4308,393 4302,391 4298,390 4292,390 4286,387 4281,387 4275,385 4269,384 4263,384 4257,383 4250,381 4244,380 4238,379 4232,377 4226,377 4219,374 4213,372 4208,369 4203,368 4196,366 4196,366\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "b0776f6c-d41a-4253-9153-dd4c35f58f9f",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "kr.",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "ter",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"4358,377 4355,419 4361,416 4365,418 4369,417 4370,417 4373,417 4377,417 4380,417 4384,417 4388,418 4392,418 4395,417 4400,418 4405,417 4410,418 4411,419 4411,418 4414,418 4416,417 4419,416 4421,414 4421,411 4424,409 4423,407 4424,402 4424,393 4424,391 4425,390 4423,388 4422,384 4420,382 4418,381 4415,379 4412,379 4412,378 4410,377 4406,378 4401,377 4398,378 4393,377 4389,378 4386,378 4383,378 4379,378 4374,378 4371,378 4369,378 4367,378 4362,377 4358,377 4358,377\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "278cd998-383e-45b0-a7c9-fc899363c86e",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Kikomon",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "koma",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"3962,1071 3971,1107 3976,1106 3981,1104 3989,1103 3993,1102 4000,1101 4008,1100 4016,1099 4022,1099 4029,1098 4035,1096 4042,1095 4048,1093 4053,1092 4058,1091 4064,1088 4067,1087 4077,1083 4083,1081 4088,1078 4093,1074 4097,1071 4104,1069 4106,1066 4107,1061 4105,1051 4101,1050 4099,1050 4091,1050 4086,1050 4080,1050 4075,1050 4068,1052 4060,1054 4056,1054 4050,1056 4045,1058 4039,1060 4034,1061 4027,1064 4021,1066 4014,1067 4008,1069 4001,1070 3994,1071 3989,1072 3982,1072 3975,1072 3969,1072 3962,1071 3962,1071\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "119adbea-d54f-4d55-b562-190774526e5d",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Bambox",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "Bamboe",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"3705,3364 3704,3394 3708,3393 3712,3393 3716,3392 3721,3392 3726,3393 3731,3393 3735,3392 3741,3393 3746,3391 3751,3393 3756,3394 3761,3393 3766,3393 3771,3394 3776,3392 3780,3393 3784,3393 3789,3392 3793,3391 3796,3391 3799,3388 3802,3387 3805,3385 3808,3382 3809,3373 3805,3370 3803,3368 3800,3367 3797,3364 3793,3364 3789,3363 3784,3362 3780,3363 3776,3362 3771,3361 3766,3361 3761,3361 3756,3362 3751,3362 3747,3364 3741,3364 3736,3364 3731,3364 3726,3365 3722,3366 3717,3366 3713,3365 3708,3365 3705,3364 3705,3364\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "7b84fc0e-f17a-4f3c-9688-14882a96e8ea",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Marechals",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "Marcchals",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"4708,727 4745,755 4747,746 4750,740 4756,731 4759,724 4765,715 4771,707 4773,699 4777,690 4780,681 4784,671 4788,663 4791,654 4793,643 4796,634 4799,626 4802,614 4805,604 4807,593 4808,584 4810,577 4810,570 4811,562 4810,554 4808,546 4794,544 4789,546 4788,554 4781,561 4777,567 4775,576 4773,585 4769,591 4766,601 4764,611 4761,618 4760,627 4756,636 4754,644 4750,652 4748,661 4744,670 4740,678 4734,686 4732,694 4728,703 4722,710 4717,716 4713,721 4708,727 4708,727\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "b09067b3-dbed-449a-bc34-1fc51e4df846",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Klaos",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ktaa",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"5407,2281 5413,2317 5418,2316 5422,2315 5427,2314 5431,2313 5436,2313 5443,2311 5448,2310 5452,2309 5460,2308 5464,2306 5470,2306 5476,2304 5482,2303 5485,2301 5491,2301 5496,2299 5501,2297 5504,2292 5508,2291 5512,2289 5515,2286 5518,2284 5519,2281 5519,2277 5518,2268 5514,2264 5512,2264 5509,2264 5505,2263 5501,2263 5498,2264 5493,2264 5488,2265 5483,2266 5477,2269 5473,2269 5468,2271 5463,2272 5457,2275 5452,2274 5446,2277 5443,2279 5437,2279 5430,2279 5425,2281 5420,2281 5416,2281 5411,2282 5407,2281 5407,2281\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "42dc9cab-d0e1-469e-97c6-b2d277dc252f",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Klip",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "tie",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"5514,3173 5523,3211 5526,3209 5529,3209 5532,3207 5535,3207 5538,3205 5543,3206 5547,3204 5552,3204 5555,3203 5560,3203 5565,3202 5568,3201 5572,3200 5575,3199 5581,3197 5583,3197 5586,3196 5588,3195 5590,3193 5592,3192 5592,3190 5594,3189 5594,3186 5593,3182 5592,3177 5590,3173 5590,3170 5588,3169 5586,3166 5583,3165 5580,3164 5577,3163 5573,3163 5570,3163 5566,3164 5562,3164 5559,3165 5554,3165 5550,3166 5546,3168 5543,3169 5539,3170 5534,3171 5532,3173 5527,3173 5524,3173 5521,3173 5517,3174 5514,3173 5514,3173\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "568fcd42-73c5-4d92-8b0d-fdf15168665a",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Mamo",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "Mamo",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"5244,4048 5270,4077 5273,4072 5276,4069 5279,4065 5282,4061 5285,4057 5288,4054 5292,4051 5296,4047 5299,4043 5303,4041 5307,4036 5310,4032 5313,4027 5317,4024 5320,4020 5323,4017 5325,4013 5327,4009 5329,4006 5330,4003 5331,3999 5332,3996 5333,3992 5332,3988 5325,3983 5323,3982 5319,3982 5316,3984 5312,3985 5308,3986 5304,3989 5301,3991 5297,3994 5295,3997 5292,4001 5289,4005 5285,4008 5282,4012 5278,4016 5277,4021 5272,4023 5269,4027 5266,4031 5262,4034 5258,4037 5255,4040 5251,4043 5248,4046 5244,4048 5244,4048\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "8760abbb-3314-4d0e-bfe1-611a381b19c2",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Ko",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "o",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"6262,980 6248,1009 6250,1009 6252,1009 6255,1010 6256,1010 6257,1011 6260,1012 6262,1013 6265,1014 6267,1015 6269,1017 6271,1018 6273,1018 6275,1019 6277,1019 6280,1020 6282,1021 6284,1021 6286,1022 6289,1021 6290,1021 6290,1020 6292,1021 6293,1020 6296,1021 6298,1009 6299,1008 6298,1007 6297,1007 6299,1005 6299,1003 6298,1000 6296,998 6293,997 6292,995 6290,994 6288,993 6287,992 6285,991 6283,990 6281,989 6278,988 6276,987 6274,986 6272,986 6270,984 6268,984 6266,982 6263,981 6262,980 6262,980\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "b521a21e-0eba-4df3-9d96-dc53c29bd94b",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "REINSDORP",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "nemsoon",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"6087,1729 6089,1758 6096,1757 6104,1757 6110,1758 6118,1757 6126,1757 6133,1757 6142,1757 6150,1757 6157,1757 6164,1757 6172,1758 6181,1758 6188,1758 6196,1758 6203,1757 6210,1757 6218,1757 6225,1756 6232,1756 6239,1755 6246,1754 6252,1752 6259,1751 6264,1748 6264,1739 6259,1736 6253,1734 6246,1731 6239,1731 6232,1730 6225,1730 6217,1730 6210,1729 6202,1729 6195,1729 6187,1729 6180,1728 6172,1728 6164,1728 6156,1729 6149,1728 6142,1729 6134,1729 6126,1729 6117,1729 6108,1729 6102,1730 6095,1730 6087,1729 6087,1729\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "26c34ff1-2f65-4c0b-85a7-0082e39cef66",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "RIV.",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "11",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"6078,1197 6118,1214 6118,1208 6119,1204 6121,1199 6122,1194 6123,1188 6124,1184 6125,1178 6129,1173 6132,1167 6131,1162 6134,1157 6136,1152 6136,1145 6137,1141 6141,1136 6141,1131 6142,1127 6142,1121 6142,1117 6143,1114 6140,1111 6136,1107 6134,1106 6129,1102 6119,1101 6114,1101 6112,1101 6110,1101 6106,1102 6105,1106 6103,1110 6099,1111 6097,1116 6095,1121 6097,1125 6095,1130 6091,1137 6090,1141 6089,1150 6087,1153 6087,1159 6087,1165 6086,1171 6084,1176 6083,1181 6081,1186 6081,1190 6080,1194 6078,1197 6078,1197\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "720904f9-9391-499f-b7e4-e66480e0b253",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Kojo",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "No10",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"6262,979 6244,1009 6247,1009 6250,1011 6253,1013 6256,1014 6260,1016 6263,1019 6266,1021 6270,1022 6273,1024 6277,1026 6280,1028 6285,1029 6288,1032 6291,1034 6294,1034 6296,1035 6300,1036 6303,1035 6307,1037 6309,1036 6311,1033 6313,1032 6316,1031 6319,1029 6321,1025 6322,1021 6322,1019 6321,1017 6322,1012 6321,1010 6320,1009 6318,1005 6316,1003 6313,1002 6310,1000 6306,998 6303,997 6299,996 6294,994 6292,993 6288,992 6284,990 6281,990 6277,988 6274,986 6271,985 6268,983 6264,981 6262,979 6262,979\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "b04d1d06-17b5-4f2c-97bf-2976a9078fb4",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "kr",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "2",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"6349,1016 6327,1037 6330,1038 6332,1040 6334,1040 6335,1042 6337,1043 6339,1044 6340,1046 6342,1047 6344,1049 6346,1050 6348,1051 6349,1051 6352,1053 6354,1055 6355,1055 6357,1056 6358,1057 6360,1056 6361,1056 6363,1056 6364,1054 6365,1053 6366,1052 6368,1051 6369,1049 6371,1047 6372,1046 6373,1044 6375,1042 6375,1040 6374,1039 6375,1037 6373,1035 6372,1034 6372,1033 6371,1032 6368,1031 6367,1029 6365,1028 6363,1027 6361,1026 6360,1025 6359,1025 6356,1023 6354,1021 6352,1020 6351,1019 6348,1018 6349,1016 6349,1016\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "26b88811-fe73-49ef-b22f-a6507352e716",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "SURINAME",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "Soninant",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"5987,1689 6034,1704 6036,1688 6041,1674 6042,1658 6043,1648 6045,1634 6047,1618 6052,1604 6054,1589 6057,1576 6063,1560 6064,1551 6068,1536 6070,1521 6074,1510 6076,1495 6077,1481 6080,1466 6079,1452 6081,1442 6083,1428 6084,1419 6084,1401 6086,1396 6087,1373 6062,1369 6055,1389 6051,1394 6046,1410 6043,1419 6040,1431 6037,1443 6034,1457 6031,1471 6028,1486 6024,1500 6022,1512 6017,1526 6014,1540 6014,1550 6011,1566 6008,1580 6005,1596 6001,1609 6000,1623 5998,1639 5995,1648 5991,1662 5989,1675 5987,1689 5987,1689\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "487eebde-0313-49d9-99b5-5791accceaa5",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "COURT",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "count",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"6066,2812 6067,2842 6072,2841 6076,2841 6081,2841 6086,2840 6093,2841 6098,2841 6104,2842 6110,2842 6115,2842 6121,2841 6126,2842 6132,2842 6137,2843 6143,2843 6148,2843 6153,2842 6158,2842 6163,2841 6167,2840 6172,2839 6177,2837 6181,2835 6182,2832 6185,2829 6185,2823 6181,2820 6179,2817 6176,2816 6170,2813 6166,2812 6162,2811 6157,2810 6152,2809 6147,2809 6142,2811 6136,2809 6131,2809 6125,2810 6119,2812 6114,2811 6109,2811 6103,2811 6097,2813 6092,2812 6087,2814 6081,2813 6076,2813 6071,2813 6066,2812 6066,2812\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "6cf617fa-4f1d-4b1d-911b-1f5572d2ec32",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "lab.",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "tab.",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"6002,2133 6006,2171 6009,2168 6011,2168 6014,2168 6018,2168 6021,2167 6026,2168 6030,2168 6034,2169 6038,2169 6042,2169 6047,2169 6051,2169 6054,2169 6058,2169 6062,2169 6065,2168 6068,2169 6071,2167 6073,2165 6074,2163 6075,2160 6076,2157 6076,2155 6076,2151 6075,2145 6074,2141 6074,2138 6073,2137 6072,2134 6070,2131 6068,2130 6065,2130 6061,2129 6058,2129 6055,2130 6051,2131 6047,2131 6043,2131 6038,2132 6034,2132 6030,2133 6026,2133 6023,2134 6019,2135 6014,2135 6011,2136 6008,2136 6006,2137 6002,2133 6002,2133\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "8604676a-816c-4e5c-a6bb-d35bb12a2701",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "REMONT",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "emont",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"5895,2811 5894,2843 5900,2841 5906,2841 5913,2841 5919,2841 5928,2842 5935,2842 5943,2842 5950,2842 5958,2842 5965,2843 5972,2843 5980,2843 5986,2843 5994,2843 6002,2843 6009,2842 6016,2842 6023,2841 6030,2841 6036,2839 6042,2838 6048,2836 6052,2834 6056,2831 6056,2822 6052,2819 6048,2817 6042,2816 6036,2814 6030,2812 6023,2811 6015,2811 6009,2811 6002,2810 5993,2810 5987,2811 5980,2810 5972,2811 5965,2811 5958,2813 5951,2811 5944,2812 5936,2811 5929,2812 5921,2813 5914,2812 5907,2812 5901,2812 5895,2811 5895,2811\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "2f6ddd4c-09b6-454b-9cf7-4fa26b07d3c3",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Sannetje",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "Sannetje",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"5816,2131 5818,2174 5824,2173 5832,2172 5839,2172 5847,2172 5854,2172 5861,2173 5869,2173 5877,2173 5885,2173 5894,2173 5900,2173 5909,2173 5917,2174 5923,2175 5933,2175 5938,2174 5945,2175 5951,2172 5959,2172 5966,2170 5972,2168 5977,2167 5982,2164 5985,2160 5986,2149 5981,2145 5976,2142 5971,2141 5966,2139 5958,2136 5952,2136 5945,2135 5938,2134 5931,2133 5923,2132 5915,2131 5907,2132 5899,2133 5891,2133 5883,2134 5875,2134 5867,2134 5860,2134 5852,2133 5844,2134 5837,2134 5830,2133 5822,2133 5816,2131 5816,2131\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "3cf09d76-9fbc-45af-8a39-0ba87b82827e",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "COURT",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "count",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"6066,2813 6068,2842 6072,2841 6076,2841 6082,2841 6087,2841 6093,2841 6099,2841 6104,2841 6109,2841 6115,2841 6121,2840 6126,2842 6131,2842 6137,2842 6143,2842 6148,2842 6153,2842 6157,2842 6162,2842 6167,2840 6171,2839 6176,2838 6179,2836 6182,2833 6184,2830 6185,2823 6181,2819 6179,2817 6176,2815 6171,2814 6167,2813 6162,2811 6157,2811 6152,2810 6147,2810 6142,2809 6136,2810 6131,2810 6125,2810 6119,2811 6114,2811 6109,2811 6103,2812 6097,2812 6092,2812 6086,2812 6080,2813 6075,2813 6070,2813 6066,2813 6066,2813\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "09b27453-b281-484d-9cc8-7c393405e5dc",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "###lip",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "io",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"5533,3171 5538,3209 5541,3206 5544,3206 5545,3204 5548,3203 5551,3202 5554,3202 5557,3202 5560,3202 5563,3201 5565,3201 5571,3200 5574,3200 5577,3199 5579,3198 5581,3198 5583,3197 5585,3196 5587,3195 5589,3193 5590,3192 5590,3188 5590,3187 5590,3185 5590,3180 5589,3175 5587,3171 5587,3170 5585,3168 5584,3165 5582,3163 5580,3162 5577,3160 5575,3160 5573,3160 5571,3161 5569,3162 5566,3163 5563,3164 5559,3165 5557,3166 5554,3166 5551,3168 5548,3169 5546,3170 5543,3170 5540,3170 5540,3169 5536,3170 5533,3171 5533,3171\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1b7afb9d-345b-450f-bae3-add1301eead5",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Beaumo##",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "Bcaumor",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"6893,1057 6925,1079 6927,1073 6931,1066 6934,1057 6936,1050 6941,1044 6945,1036 6948,1029 6952,1023 6956,1016 6960,1010 6964,1003 6969,997 6972,991 6975,986 6978,979 6981,973 6984,966 6987,958 6990,952 6992,945 6994,939 6995,934 6998,928 7000,924 6993,924 6987,925 6983,928 6979,932 6977,937 6974,942 6969,947 6965,954 6961,959 6957,965 6954,971 6949,976 6945,981 6941,988 6936,994 6932,1001 6928,1007 6923,1013 6920,1019 6915,1026 6913,1033 6908,1040 6902,1047 6898,1053 6893,1057 6893,1057\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "c8a8a6cf-d315-4d1c-b334-2320f8588b6a",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "P",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "a",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"7329,2275 7361,2281 7360,2279 7361,2278 7361,2276 7362,2275 7362,2273 7363,2271 7364,2270 7365,2269 7365,2270 7367,2267 7367,2263 7368,2261 7370,2258 7370,2256 7370,2255 7369,2254 7369,2254 7367,2254 7365,2256 7364,2254 7363,2255 7361,2256 7360,2257 7355,2259 7343,2260 7344,2256 7342,2256 7342,2253 7341,2252 7339,2254 7338,2251 7337,2249 7336,2250 7336,2250 7335,2251 7335,2253 7334,2256 7333,2259 7332,2261 7333,2264 7332,2266 7331,2267 7331,2268 7331,2269 7330,2270 7330,2271 7329,2273 7329,2274 7329,2275 7329,2275\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "837ff7f1-661c-4aa9-b574-e8f7df853240",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Bambod",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "Bambos",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"6572,5782 6571,5814 6576,5812 6582,5813 6588,5813 6593,5813 6599,5812 6606,5813 6612,5813 6619,5814 6627,5813 6633,5814 6639,5814 6646,5814 6653,5813 6659,5815 6666,5813 6672,5814 6677,5812 6683,5811 6687,5811 6691,5809 6699,5807 6704,5804 6709,5803 6712,5800 6711,5790 6707,5787 6702,5786 6697,5785 6690,5785 6685,5784 6680,5784 6675,5783 6670,5783 6665,5783 6658,5782 6652,5783 6645,5782 6638,5783 6633,5783 6626,5783 6619,5784 6612,5784 6605,5784 6599,5785 6593,5784 6588,5784 6582,5783 6576,5784 6572,5782 6572,5782\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "b6fd57a8-15be-4d93-8f71-824d65f787ac",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Kourgs",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "Koureo",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"7473,3321 7509,3329 7507,3323 7507,3317 7508,3311 7510,3305 7511,3300 7514,3296 7513,3290 7514,3286 7515,3280 7517,3275 7519,3270 7522,3264 7522,3260 7525,3255 7526,3248 7525,3243 7528,3239 7529,3232 7530,3224 7530,3221 7529,3217 7529,3212 7529,3209 7527,3204 7519,3204 7514,3203 7513,3208 7511,3211 7509,3215 7507,3217 7504,3223 7502,3229 7500,3234 7499,3237 7497,3244 7495,3249 7493,3254 7491,3260 7490,3265 7489,3271 7486,3276 7484,3282 7482,3287 7482,3291 7481,3301 7480,3304 7478,3310 7476,3316 7473,3321 7473,3321\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "4cea03a9-1597-452c-ba6c-002509aed2d6",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "BLAD",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "BIAD",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"7539,6290 7541,6357 7548,6352 7557,6352 7567,6351 7577,6352 7587,6351 7599,6350 7610,6351 7620,6351 7632,6350 7645,6350 7654,6351 7663,6352 7676,6350 7689,6351 7701,6351 7710,6350 7720,6349 7731,6348 7739,6347 7748,6346 7757,6342 7769,6340 7770,6336 7776,6333 7776,6315 7769,6311 7769,6307 7757,6302 7749,6297 7739,6295 7730,6293 7719,6292 7707,6290 7698,6290 7688,6291 7675,6293 7662,6293 7651,6294 7642,6293 7630,6291 7618,6291 7608,6292 7597,6293 7587,6293 7576,6294 7565,6293 7555,6293 7546,6294 7539,6290 7539,6290\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "800bd899-58ce-4b8a-a0b3-2e0fd88a52b5",
+      "type": "Annotation",
+      "motivation": "textspotting",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "22t>",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://github.com/maps-as-data/MapTextPipeline",
+            "type": "Software"
+          }
+        },
+        {
+          "type": "TextualBody",
+          "value": "225",
+          "format": "text/plain",
+          "purpose": "supplementing",
+          "generator": {
+            "id": "https://hdl.handle.net/10622/X2JZYY",
+            "type": "Software",
+            "label": "GLOBALISE Loghi Handwritten Text Recognition Model - August 2023"
+          }
+        }
+      ],
+      "target": {
+        "source": "https://surinameTimeMachine.github.io/iiif-suriname/canvas/c174",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"7802,6291 7806,6356 7814,6354 7820,6355 7827,6354 7835,6351 7843,6352 7853,6351 7861,6350 7869,6348 7878,6347 7886,6348 7893,6344 7901,6343 7910,6341 7917,6341 7923,6341 7931,6341 7938,6338 7942,6336 7947,6333 7954,6331 7955,6323 7958,6324 7955,6319 7955,6310 7954,6295 7951,6290 7953,6285 7950,6281 7949,6279 7942,6275 7937,6274 7930,6270 7924,6270 7916,6267 7911,6270 7905,6273 7896,6277 7889,6280 7883,6281 7875,6284 7865,6285 7858,6287 7850,6289 7841,6292 7830,6295 7823,6293 7817,6292 7811,6294 7802,6291 7802,6291\"/></svg>"
+        },
+        "generator": {
+          "id": "https://github.com/maps-as-data/MapTextPipeline",
+          "type": "Software"
+        }
+      }
+    }
+  ],
+  "id": "https://surinameTimeMachine.github.io/iiif-suriname/annotations/iiif/c174.json"
+}
