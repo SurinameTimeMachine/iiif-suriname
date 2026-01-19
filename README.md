@@ -3,13 +3,9 @@
 IIIF v3 manifest with AI-generated HTR annotations for Surinamese maps.
 
 Manifest (paste this into a IIIF viewer):
-https://surinameTimeMachine.github.io/iiif-suriname/manifest.json
+https://surinametimemachine.github.io/iiif-suriname/manifest.json
 
 ## How annotations are wired
-
-- Raw model output: annotations/raw (c1.json, c2.json, ...)
-- Normalized IIIF pages: annotations/iiif
-- Each Canvas links its AnnotationPage via the IIIF v3 `annotations` property.
 
 ## Update workflow
 

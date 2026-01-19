@@ -4,9 +4,9 @@
   "items": [
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "7542bcd0-289d-4446-bff9-a858b2c8269c",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c22.json#anno-1",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -32,5 +32,5 @@
       }
     }
   ],
-  "id": "https://surinameTimeMachine.github.io/iiif-suriname/annotations/iiif/c22.json"
+  "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c22.json"
 }

@@ -6,7 +6,7 @@ from typing import Any
 
 
 OLD_BASE = "https://example.org/iiif/suriname-maps/"
-NEW_BASE = "https://surinameTimeMachine.github.io/iiif-suriname/"
+NEW_BASE = "https://surinametimemachine.github.io/iiif-suriname/"
 
 
 def rewrite_strings(value: Any) -> Any:

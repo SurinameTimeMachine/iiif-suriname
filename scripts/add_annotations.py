@@ -7,7 +7,7 @@ from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional
 
 
-NEW_BASE = "https://surinameTimeMachine.github.io/iiif-suriname/"
+NEW_BASE = "https://surinametimemachine.github.io/iiif-suriname/"
 CONTEXT = "https://iiif.io/api/presentation/3/context.json"
 
 
@@ -67,6 +67,26 @@ def normalize_target_source(target: Any, canvas_map: Dict[str, str]) -> None:
         target["source"] = canvas_map[slug]
 
 
+def normalize_annotation_item(
+    item: Dict[str, Any],
+    page_id: str,
+    index: int,
+    canvas_map: Dict[str, str],
+) -> None:
+    if item.get("type") != "Annotation":
+        item["type"] = "Annotation"
+
+    item_id = item.get("id")
+    if not isinstance(item_id, str) or not item_id.startswith(("http://", "https://")):
+        item["id"] = f"{page_id}#anno-{index}"
+
+    motivation = item.get("motivation")
+    if motivation == "textspotting":
+        item["motivation"] = "supplementing"
+
+    normalize_target_source(item.get("target"), canvas_map)
+
+
 def normalize_annotation_page(
     page: Dict[str, Any],
     page_id: str,
@@ -78,12 +98,10 @@ def normalize_annotation_page(
 
     items = page.get("items", [])
     if isinstance(items, list):
-        for item in items:
+        for index, item in enumerate(items, start=1):
             if not isinstance(item, dict):
                 continue
-            if item.get("type") != "Annotation":
-                continue
-            normalize_target_source(item.get("target"), canvas_map)
+            normalize_annotation_item(item, page_id, index, canvas_map)
 
     return page
 

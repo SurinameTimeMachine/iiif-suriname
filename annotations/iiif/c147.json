@@ -4,9 +4,9 @@
   "items": [
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "09aa6b93-81da-452b-a2a3-ca41666938b1",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c147.json#anno-1",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -44,9 +44,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "95fdac2f-8248-4034-a790-7be5552da864",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c147.json#anno-2",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -84,9 +84,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "acd99683-c165-4754-9222-84a331694a14",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c147.json#anno-3",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -124,9 +124,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "d594831b-b33a-40c3-94ad-ff250eea360a",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c147.json#anno-4",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -164,9 +164,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "bd15e34d-e8e1-4895-b2e6-a4c009571fc4",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c147.json#anno-5",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -203,5 +203,5 @@
       }
     }
   ],
-  "id": "https://surinameTimeMachine.github.io/iiif-suriname/annotations/iiif/c147.json"
+  "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c147.json"
 }

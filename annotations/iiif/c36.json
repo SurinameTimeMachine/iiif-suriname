@@ -4,9 +4,9 @@
   "items": [
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "1596d4f9-1090-44c3-b18d-04a3762b6eda",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-1",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -44,9 +44,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "a4cc3ca4-05dd-47f0-bd92-55ac7e7c9df1",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-2",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -84,9 +84,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "433b367b-7207-4506-ab0a-3200fc1b6b52",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-3",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -124,9 +124,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "57090319-dc3e-4e1a-95d6-f266e4c1502c",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-4",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -164,9 +164,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "ec8a70b0-a58d-43f0-9de6-543e7cb515fc",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-5",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -204,9 +204,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "c0983c73-2fc6-48f7-aae5-88ef119dd152",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-6",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -244,9 +244,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "f6e35f6e-7a65-4146-8b8f-18490ed25f0f",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-7",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -284,9 +284,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "0f0d66b5-1bef-40d0-a815-eb43a4b15a66",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-8",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -324,9 +324,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "c35c7fc7-48e9-45b6-8f32-c80c35f98ad6",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-9",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -364,9 +364,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "0b1d3be6-38c1-44d2-ab64-e4913bd3e29c",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-10",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -404,9 +404,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "2a64a850-427c-44ba-aac9-77aaa85ff041",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-11",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -444,9 +444,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "7a9c61fe-8d77-43cc-a692-396f0af79892",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-12",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -484,9 +484,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "de99480a-a534-4dc2-8934-a89d96d75242",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-13",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -524,9 +524,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "0fd06987-437f-4afa-92a1-81a583b5ac23",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-14",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -564,9 +564,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "30f8949a-726f-46c8-b7cb-4aa8b94615bf",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-15",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -604,9 +604,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "6958857b-8444-4bf0-9719-15f6932098fd",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-16",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -644,9 +644,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "8cf5808e-6034-4ab8-90b9-9d6cac24bb61",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-17",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -684,9 +684,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "8cc50f2b-dbb7-4c88-a65d-87b2399bacee",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-18",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -724,9 +724,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "24056592-73f0-431b-9e99-366a8f9c2ddb",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-19",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -764,9 +764,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "248bf73c-8d31-4c19-869b-1556e97cb236",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-20",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -804,9 +804,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "badafeca-c04d-4c2c-88c1-687b43741377",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-21",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -844,9 +844,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "e139c7f4-2c54-4ef6-9b71-af245b48dd81",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-22",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -884,9 +884,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "6f57f31e-1eb0-48e1-aae0-4567b8d851aa",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-23",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -924,9 +924,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "dc0b4acf-0a88-4cab-bf69-1f6daa4ce0b7",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-24",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -964,9 +964,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "f74e35f4-f7c6-4e33-99ff-3e4ac49da248",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-25",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1004,9 +1004,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "e61deb63-69a1-444b-898b-e072d42a3104",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-26",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1044,9 +1044,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "1c0dfb20-4783-46d7-a15c-a1b3e15883bf",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-27",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1084,9 +1084,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "71a00f5f-1f76-49ec-902e-6e83915eca7e",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-28",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1124,9 +1124,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "2173dc68-ac53-40fe-ae92-9c1db38a0bb9",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-29",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1164,9 +1164,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "7b3af39f-48a9-470e-8527-884d30125218",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-30",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1204,9 +1204,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "ebfb02f6-2ebb-45ea-b8c8-b2fddbb42d90",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-31",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1244,9 +1244,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "d0001d40-4601-4a5b-866f-c67eb9ce4f30",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-32",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1284,9 +1284,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "68d00a8f-7850-4a89-af7d-2b345f566474",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-33",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1324,9 +1324,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "c82299ee-a66e-4a73-af3b-5a3786c1f6f3",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-34",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1364,9 +1364,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "f9ce3204-e929-484a-8421-f597cba1b554",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-35",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1404,9 +1404,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "a148af6b-81a0-44ca-90b5-3567cc99554c",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-36",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1444,9 +1444,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "6974af93-d6f7-49c3-802f-2e7a16318774",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-37",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1484,9 +1484,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "eac67582-1666-47f0-bc5a-040053c2184c",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-38",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1524,9 +1524,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "56696e91-db7c-48e0-92d2-b79049bb92fa",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-39",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1564,9 +1564,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "9a1584f5-e7ee-45d3-94e0-aa1135527738",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-40",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1604,9 +1604,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "9ed43e16-8b25-4c43-8970-5388443fc2d4",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-41",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1644,9 +1644,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "ce5573ca-2040-41c4-a615-f80c9b99f2a5",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-42",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1684,9 +1684,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "51ffcc70-fe5a-49f3-99bd-cdd607f00d51",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-43",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1724,9 +1724,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "bf861491-a14f-4183-8ce3-cd0b1dc2c263",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-44",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1764,9 +1764,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "490d4c22-6193-4ff8-8a84-9a02a9a6ebcb",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-45",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1804,9 +1804,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "a660db21-c263-480f-a58f-a965b9c02ef2",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-46",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1844,9 +1844,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "37796546-95ef-4638-9ae7-03e95b0d74fc",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-47",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1884,9 +1884,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "3198d2bf-ce24-4501-98ad-2ff468e1568d",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-48",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1924,9 +1924,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "3534633b-8f11-48db-ada6-8f7edcbdf6ca",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-49",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -1964,9 +1964,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "9f1976cd-cd1a-41e3-8f45-89a39d5a39d3",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-50",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2004,9 +2004,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "f2c6ac40-f4dd-4fa8-826c-3c226f8ab69a",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-51",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2044,9 +2044,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "8c2d1708-50c7-43c8-890b-2207b576143f",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-52",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2084,9 +2084,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "cd231993-8d10-4ac4-9fb3-34bdba255e6d",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-53",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2124,9 +2124,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "2a6db199-ed34-40b7-bfe4-ee7ff1e973da",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-54",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2164,9 +2164,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "fa6c70c6-4c1e-4236-8fea-0c8488282cb1",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-55",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2204,9 +2204,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "6a806d6b-7182-4c83-998e-4a7bc34c6623",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-56",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2244,9 +2244,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "37e5ac71-eefa-48c1-90ee-edc724508dfb",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-57",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2284,9 +2284,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "ee8710b9-e34f-44d5-a9bd-58819ba1b80d",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-58",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2324,9 +2324,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "39d7a92e-03b8-4baa-b76a-798ac3f4fe73",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-59",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2364,9 +2364,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "a486cd09-74ea-4e2d-9191-272caabbd910",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-60",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2404,9 +2404,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "5619b817-353d-4bce-8455-d03862a33b81",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-61",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2444,9 +2444,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "a0b272aa-eb24-4bec-b9e6-c18b319c222d",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-62",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2484,9 +2484,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "bf67589a-6af1-49a5-b7f5-72221c8aa93e",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-63",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2524,9 +2524,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "003f76db-0498-4a23-8fcd-aeb1a3650c29",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-64",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2564,9 +2564,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "f9f92654-fcca-4b43-96a4-67361c64fe52",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-65",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2604,9 +2604,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "d6e29353-bacc-4a5c-837e-92f6955dcb5a",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-66",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2644,9 +2644,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "3f3036da-8cb7-4cfd-b501-08e68ba598f0",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-67",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2684,9 +2684,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "5d434c1f-17c9-403d-bdc4-cedda893df33",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-68",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2724,9 +2724,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "6471d534-49a8-4167-af8e-523dd15cf749",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-69",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2764,9 +2764,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "3c954589-eb90-4367-b854-85eb4a4e4bc8",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-70",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2804,9 +2804,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "cb575678-0048-48b4-b844-3bcf7aa29110",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-71",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2844,9 +2844,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "07909a7b-9d3a-4490-8525-e778cb5ddbc3",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-72",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2884,9 +2884,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "e4cdc9dc-ba10-43c9-b886-b3b4d3fd01c3",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-73",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2924,9 +2924,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "393b4dc9-fb69-4b8f-a1c2-f24838c133f6",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-74",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -2964,9 +2964,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "884a9cae-43b8-4ab9-96f5-8509ed0a03ac",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-75",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3004,9 +3004,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "86e76319-1b4b-4173-8232-d4233644b032",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-76",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3044,9 +3044,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "51b168d9-2387-4dc2-8139-6ce6c8baa722",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-77",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3084,9 +3084,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "39ac016e-8a31-43ae-8758-1a250e9f514c",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-78",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3124,9 +3124,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "b3bb26cf-d12d-43cd-ad38-84c2fbfaeaf6",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-79",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3164,9 +3164,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "19ae8e54-68c0-45b0-87f8-2c3456827c2e",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-80",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3204,9 +3204,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "13ea3d62-65fc-41a9-9dab-a556ac225221",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-81",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3244,9 +3244,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "f05d14fd-2ea2-4118-a5b1-3bc8511b3d85",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-82",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3284,9 +3284,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "c30ef45a-8716-49e5-aa80-e1b01781d5f3",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-83",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3324,9 +3324,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "d9e2b552-46f0-4bf4-82a7-1f42590063ef",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-84",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3364,9 +3364,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "1390d3c9-2ffd-4d9f-bd30-69d617d27a5a",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-85",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3404,9 +3404,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "76bcc7a7-9e8a-4e94-b8fb-62c4ce0440ff",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-86",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3444,9 +3444,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "84b7a8b3-c069-4ab3-adda-d3e4916ed969",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-87",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3484,9 +3484,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "60f951d3-e2fb-47a6-a7ac-d7689ef5db38",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-88",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3524,9 +3524,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "f56f3695-de84-43c1-9448-d19eead9612d",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-89",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3564,9 +3564,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "31b376c4-b2a6-4517-a479-2a707363a192",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-90",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3604,9 +3604,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "e2718dec-2dfa-4f34-be13-241f4c496560",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-91",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3644,9 +3644,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "e03c8381-e232-4c87-8c26-15e25aa3fcab",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-92",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3684,9 +3684,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "6ce875bf-5988-4739-a48c-155d22407ed9",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-93",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3724,9 +3724,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "171c214b-7531-4c1b-afde-ad8b74f9bd27",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-94",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3764,9 +3764,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "ddecfb13-b508-4279-8c61-e5c94fc59501",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-95",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3804,9 +3804,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "892ff6cb-f756-4fd0-bc09-d1f6d2dd8a9d",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-96",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3844,9 +3844,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "6da951ae-5edd-4ac7-8fdb-3d16d7bcf7c4",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-97",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3884,9 +3884,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "d1d155af-4c92-41e0-9083-a447690f414c",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-98",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3924,9 +3924,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "0203a832-34b3-444c-8a4b-3b159a34d267",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-99",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -3964,9 +3964,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "bd9eabc2-374a-4c11-a20f-d48ce9b504d2",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-100",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4004,9 +4004,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "310014f9-dbe7-4215-ad94-06c8deac036d",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-101",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4044,9 +4044,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "f8aad55c-7152-4255-907b-9ce5e30b604b",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-102",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4084,9 +4084,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "c8403ef5-daf0-4878-a040-0b01552c461d",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-103",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4124,9 +4124,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "84bc9169-7f75-4b4f-86ca-feaf5fb8d90e",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-104",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4164,9 +4164,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "4db157ef-db0c-4a16-9cc7-616881f2387e",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-105",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4204,9 +4204,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "bb74533d-bae7-4fe4-a772-098962686033",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-106",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4244,9 +4244,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "6e1b7e24-5b4c-4476-a731-c99e08593919",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-107",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4284,9 +4284,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "025a3baa-73f6-49fd-924a-541d00d1bcfb",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-108",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4324,9 +4324,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "fe262ffd-85fc-43ec-af14-4c43d5b7ee35",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-109",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4364,9 +4364,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "15be5c82-536c-426a-ad81-df22e2813176",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-110",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4404,9 +4404,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "0a360d07-0142-42bd-ac2a-026891cf75b0",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-111",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4444,9 +4444,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "f4a12fff-f4ef-4f5b-9f24-75d05f445232",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-112",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4484,9 +4484,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "f6b52e6b-e393-4b86-aa98-245896b80ebb",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-113",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4524,9 +4524,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "bd15aa1e-58a6-4933-a66a-b74e50210106",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-114",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4564,9 +4564,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "734ffe92-c442-4e0c-bba3-be06772f3d09",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-115",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4604,9 +4604,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "6335ff3b-bc93-4736-8b0f-4d2cb5527e06",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-116",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4644,9 +4644,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "72c8810e-34df-4019-9cab-3c64df329661",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-117",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4684,9 +4684,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "a202a30f-c480-4a41-8c7f-4d5f740848f4",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-118",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4724,9 +4724,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "8bd4ad27-9c2b-4466-9e29-126948ea952f",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-119",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4764,9 +4764,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "f49fa2cb-1d6f-44d7-996f-55d1c97c885f",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-120",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4804,9 +4804,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "54f12fd6-0e4a-46cd-9d7d-e01db12c33ee",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-121",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4844,9 +4844,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "6e44a4e5-38f0-47d5-be57-25e07493e009",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-122",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4884,9 +4884,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "608d3036-5fd2-44d4-97eb-7ecb89f9152a",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-123",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4924,9 +4924,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "0a097f9a-cd6b-4727-9605-1d1471c2663f",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-124",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -4964,9 +4964,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "a0293ce6-fbdc-4f17-af73-6c483c18fa56",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-125",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5004,9 +5004,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "de0347af-6e4a-4724-ba24-7460fb1d7c5a",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-126",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5044,9 +5044,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "511a7a6a-42b3-48a6-ad82-e91a5787c249",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-127",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5084,9 +5084,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "9d224505-96a7-4cdf-9d83-9c10ed7f9768",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-128",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5124,9 +5124,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "630dc5d8-f0fe-411c-b7ab-158f226fe136",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-129",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5164,9 +5164,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "a76d67d4-361c-4ecf-901c-34df0ebc4a2d",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-130",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5204,9 +5204,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "9ff261fe-dfca-453d-b918-d053407df713",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-131",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5244,9 +5244,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "9b63a1cb-796c-46f1-83a0-e49674198d90",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-132",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5284,9 +5284,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "82c94d18-64e0-458b-8e74-d35761bd93e9",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-133",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5324,9 +5324,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "b904afd0-6887-42b9-b81b-9334cb686455",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-134",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5364,9 +5364,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "4d028fbc-d8ce-469d-af1f-932e09a039cb",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-135",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5404,9 +5404,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "ae3cc0ba-0ffb-4fb2-8327-d6ffc74f512d",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-136",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5444,9 +5444,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "40f648b2-23df-43b4-9dd6-9bf13a877068",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-137",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5484,9 +5484,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "e1357122-8df9-4697-bcab-3f112c96d313",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-138",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5524,9 +5524,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "c451ecfa-eb78-4207-af01-8d60286686d3",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-139",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5564,9 +5564,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "2e03d4b7-87ae-40a1-996c-9f5325707de5",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-140",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5604,9 +5604,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "82975755-e7ce-4194-8f5f-2a6bf1560128",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-141",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5644,9 +5644,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "b3b6267b-ee1f-4e75-8bbf-694266a2dab9",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-142",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5684,9 +5684,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "dc40c896-9220-47b8-9ade-3ae91263c490",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-143",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5724,9 +5724,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "8e207e76-1b75-44cb-b35b-fae3af49bfd7",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-144",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5764,9 +5764,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "a0ceb653-b008-4118-8a98-5ca732e12883",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-145",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5804,9 +5804,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "5a01b727-1c01-4442-a7f7-71a2154bf7ad",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-146",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5844,9 +5844,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "27f85e53-8a9c-4d42-8fa6-2a4d087ef372",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-147",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5884,9 +5884,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "adf438d3-68e1-44e5-af45-6058ec57e7de",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-148",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5924,9 +5924,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "9addb7c0-7d17-4126-9f31-4ecf96b536a5",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-149",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -5964,9 +5964,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "1cbc1232-884e-410b-ae96-a9a8f07d298f",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-150",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6004,9 +6004,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "6d611293-72e7-474e-9817-ad0d41cccb36",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-151",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6044,9 +6044,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "3b797a2b-06e1-4eb4-af40-98e6b0a93679",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-152",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6084,9 +6084,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "c3810a81-4815-40bc-922a-cde95753908d",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-153",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6124,9 +6124,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "b5686982-f2a7-4eb6-9b15-fc3f5804ee83",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-154",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6164,9 +6164,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "690a5c89-0c56-4bb4-9330-e4ff4560b6e1",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-155",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6204,9 +6204,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "0deae69c-6e32-4d63-b635-c0ce5f9023c7",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-156",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6244,9 +6244,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "c8b54387-2d3e-416e-9304-a7d8ca6d5d91",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-157",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6284,9 +6284,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "2f23f5a0-f5db-4004-83d5-3cbe6524dc5b",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-158",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6324,9 +6324,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "39186a89-fd93-4927-bef4-f140390a9a0e",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-159",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6364,9 +6364,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "38979302-8eca-46cd-ba3a-eefc4056b651",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-160",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6404,9 +6404,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "bbe26a15-bc16-49d8-a4ab-b2871022bba2",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-161",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6444,9 +6444,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "2dfc51a8-b243-4825-b140-09b8a7ec56ac",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-162",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6484,9 +6484,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "38625bed-f50f-465c-b430-0f8ac4c26ff5",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-163",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6524,9 +6524,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "4d6dac4f-3318-4387-a8f8-9405a581008f",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-164",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6564,9 +6564,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "03e76304-6697-4dc6-a7e8-34614047e6b1",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-165",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6604,9 +6604,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "716dc8d1-f871-448b-a984-5e9766458b7c",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-166",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6644,9 +6644,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "4e38f7c1-d4b7-43f2-a50c-de4d84ac01f6",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-167",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6684,9 +6684,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "b9f5b98a-0f07-4bef-a05d-69713c38934f",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-168",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6724,9 +6724,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "08c248bc-b5cf-4b23-8196-89bbcf295773",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-169",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6764,9 +6764,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "b9b226e5-49b0-4716-957b-b033879ae146",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-170",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6804,9 +6804,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "ac3d4770-0635-4e1b-a2c4-c877ce01c531",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-171",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6844,9 +6844,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "d56c46de-0ad1-4070-bb0b-ff15a36ea190",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-172",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6884,9 +6884,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "c368f9f6-7962-444a-a619-e1e3ccf036ff",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-173",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6924,9 +6924,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "4bbd8c0c-2754-435a-bfc3-dfbb28f71127",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-174",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -6964,9 +6964,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "c48f6f14-c502-493f-a346-c900953f2396",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-175",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7004,9 +7004,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "d262634f-d0a6-46e4-a96a-f8bd7094fb22",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-176",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7044,9 +7044,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "003476df-2d0d-42d8-90e5-60e9829a936a",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-177",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7084,9 +7084,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "b1be23fd-a5a1-46a4-9cbe-d436a4b15c69",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-178",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7124,9 +7124,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "2f51e991-d169-4b17-816d-646a23efcb80",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-179",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7164,9 +7164,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "5eabbd8b-2419-448f-b5a3-996a457c0f59",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-180",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7204,9 +7204,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "86d77113-ae40-4d93-a217-cde2dcfeec64",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-181",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7244,9 +7244,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "7301d8df-d9a3-4c34-87d9-fb8c34296957",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-182",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7284,9 +7284,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "b07342dd-dcd9-47df-9326-accd350a6ac8",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-183",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7324,9 +7324,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "c3e8cb9d-0989-449a-86b7-529070bea524",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-184",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7364,9 +7364,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "e9799410-9a51-4a23-8995-9ffed49381e2",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-185",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7404,9 +7404,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "49e19bcf-7a4f-4f93-8206-e18e4134290c",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-186",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7444,9 +7444,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "5654187f-0407-4866-9272-7ddc489bba8f",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-187",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7484,9 +7484,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "112bf96e-d01c-44ba-8e98-35bf277cd652",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-188",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7524,9 +7524,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "0e80f3c9-e61d-4feb-9440-4d5bd8710c8c",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-189",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7564,9 +7564,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "fce91bce-d7d6-446f-8823-27f76d6636b0",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-190",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7604,9 +7604,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "ecfbce02-9134-4fa8-9c49-5ab43b7ebf3e",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-191",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7644,9 +7644,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "1386d2e5-16d7-44e4-a10d-173581708b16",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-192",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7684,9 +7684,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "61fb94d1-b9ef-418d-a03f-d91695740065",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-193",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7724,9 +7724,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "a1bdd0d5-fbc5-43b1-baa2-3a63c222b2d6",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-194",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7764,9 +7764,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "6ab5377f-9381-4f1a-909d-28c0592bd469",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-195",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7804,9 +7804,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "947adaa7-2df0-4cca-bff0-e78a663d3376",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-196",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7844,9 +7844,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "8bd58161-e0be-451b-b8e2-5993c558314b",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-197",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7884,9 +7884,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "f85fbadb-6f64-45bb-9f53-c64a51f6bac1",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-198",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7924,9 +7924,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "07726873-d64a-4c16-8ca6-3f616ab83ccd",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-199",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -7964,9 +7964,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "549bac80-fd65-4a31-a616-82b0c4a019fc",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-200",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -8004,9 +8004,9 @@
     },
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
-      "id": "05527c13-41fd-4e0e-ab95-70bc9294624b",
+      "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json#anno-201",
       "type": "Annotation",
-      "motivation": "textspotting",
+      "motivation": "supplementing",
       "body": [
         {
           "type": "TextualBody",
@@ -8043,5 +8043,5 @@
       }
     }
   ],
-  "id": "https://surinameTimeMachine.github.io/iiif-suriname/annotations/iiif/c36.json"
+  "id": "https://surinametimemachine.github.io/iiif-suriname/annotations/iiif/c36.json"
 }
