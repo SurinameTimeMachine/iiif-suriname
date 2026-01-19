@@ -6,12 +6,13 @@ from typing import Any
 
 
 OLD_BASE = "https://example.org/iiif/suriname-maps/"
+LEGACY_BASE = "https://surinameTimeMachine.github.io/iiif-suriname/"
 NEW_BASE = "https://surinametimemachine.github.io/iiif-suriname/"
 
 
 def rewrite_strings(value: Any) -> Any:
     if isinstance(value, str):
-        return value.replace(OLD_BASE, NEW_BASE)
+        return value.replace(OLD_BASE, NEW_BASE).replace(LEGACY_BASE, NEW_BASE)
     if isinstance(value, list):
         return [rewrite_strings(v) for v in value]
     if isinstance(value, dict):
