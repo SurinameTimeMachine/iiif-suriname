@@ -33,8 +33,9 @@
       "target": {
         "source": "https://surinametimemachine.github.io/iiif-suriname/canvas/c121",
         "selector": {
-          "type": "SvgSelector",
-          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"110,237 114,298 118,296 123,295 128,296 134,295 140,294 146,294 150,294 157,293 162,293 168,293 175,293 182,293 187,293 191,293 196,291 201,292 206,289 211,288 215,286 218,283 220,279 222,277 223,275 224,270 224,260 221,254 220,251 218,249 216,245 212,242 209,240 204,240 198,237 193,237 188,237 183,236 177,236 170,237 164,238 158,238 152,238 147,238 141,239 135,239 129,239 123,238 118,239 114,239 110,237 110,237\"/></svg>"
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:110,236,114,62"
         },
         "generator": {
           "id": "https://github.com/maps-as-data/MapTextPipeline",
@@ -73,8 +74,9 @@
       "target": {
         "source": "https://surinametimemachine.github.io/iiif-suriname/canvas/c121",
         "selector": {
-          "type": "SvgSelector",
-          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"382,237 388,291 392,289 396,290 399,289 404,288 409,286 414,285 419,285 424,284 429,284 434,284 439,284 444,284 449,285 454,285 458,283 462,281 465,280 469,278 472,276 474,274 476,270 476,267 476,266 472,259 472,251 472,246 471,243 471,240 469,237 467,234 463,232 460,230 456,230 452,228 448,229 442,230 437,233 431,233 426,234 421,235 416,236 412,236 405,236 403,236 397,237 392,237 389,237 386,238 382,237 382,237\"/></svg>"
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:382,228,94,63"
         },
         "generator": {
           "id": "https://github.com/maps-as-data/MapTextPipeline",
@@ -113,8 +115,9 @@
       "target": {
         "source": "https://surinametimemachine.github.io/iiif-suriname/canvas/c121",
         "selector": {
-          "type": "SvgSelector",
-          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"247,248 248,295 253,294 258,294 262,294 268,295 274,294 279,293 285,294 290,293 296,294 301,294 307,294 313,294 318,294 323,294 329,293 335,292 339,291 343,289 347,288 350,286 353,283 354,281 354,278 354,275 354,264 353,260 352,256 351,254 349,252 345,249 341,248 337,247 332,247 327,246 321,246 316,246 311,246 305,244 300,247 294,247 288,248 282,248 277,249 271,248 266,248 260,249 255,249 251,249 247,248 247,248\"/></svg>"
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:247,244,107,51"
         },
         "generator": {
           "id": "https://github.com/maps-as-data/MapTextPipeline",
@@ -153,8 +156,9 @@
       "target": {
         "source": "https://surinametimemachine.github.io/iiif-suriname/canvas/c121",
         "selector": {
-          "type": "SvgSelector",
-          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"165,358 166,424 172,425 178,424 186,425 193,425 202,422 213,424 221,425 230,426 238,424 245,427 254,428 265,430 273,432 283,428 289,427 296,426 302,425 309,425 318,418 323,416 323,415 330,412 334,409 339,404 339,388 333,380 328,376 321,372 321,368 316,367 308,361 302,362 297,359 289,358 282,355 272,352 263,355 253,357 244,358 235,358 228,358 219,358 212,357 202,359 192,357 185,357 176,358 170,358 165,358 165,358\"/></svg>"
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:165,352,174,80"
         },
         "generator": {
           "id": "https://github.com/maps-as-data/MapTextPipeline",
@@ -193,8 +197,9 @@
       "target": {
         "source": "https://surinametimemachine.github.io/iiif-suriname/canvas/c121",
         "selector": {
-          "type": "SvgSelector",
-          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"108,129 110,193 114,193 117,193 120,193 123,192 126,192 130,192 133,191 137,195 140,196 143,192 147,192 150,192 153,192 155,192 157,191 158,190 159,188 161,188 162,185 162,183 163,179 161,177 160,174 158,169 158,159 159,154 160,150 162,148 161,143 160,141 159,138 158,137 157,136 155,134 153,133 151,133 148,132 144,132 141,132 137,126 134,127 130,132 127,132 124,132 121,131 117,130 114,131 111,129 108,129 108,129\"/></svg>"
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:108,126,55,70"
         },
         "generator": {
           "id": "https://github.com/maps-as-data/MapTextPipeline",

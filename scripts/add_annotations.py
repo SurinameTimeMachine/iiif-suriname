@@ -4,7 +4,8 @@ import argparse
 import json
 from datetime import datetime
 from pathlib import Path
-from typing import Any, Dict, Iterable, List, Optional
+import re
+from typing import Any, Dict, Iterable, List, Optional, Tuple
 
 
 NEW_BASE = "https://surinametimemachine.github.io/iiif-suriname/"
@@ -67,6 +68,57 @@ def normalize_target_source(target: Any, canvas_map: Dict[str, str]) -> None:
         target["source"] = canvas_map[slug]
 
 
+def _parse_svg_polygon_points(svg_value: str) -> Optional[List[Tuple[float, float]]]:
+    match = re.search(r"points=\"([^\"]+)\"", svg_value)
+    if not match:
+        return None
+    coords = match.group(1).replace("\n", " ").strip()
+    numbers = re.findall(r"-?\d+(?:\.\d+)?", coords)
+    if len(numbers) < 4:
+        return None
+    points: List[Tuple[float, float]] = []
+    it = iter(numbers)
+    for x in it:
+        try:
+            y = next(it)
+        except StopIteration:
+            break
+        points.append((float(x), float(y)))
+    return points or None
+
+
+def _bbox_from_points(points: List[Tuple[float, float]]) -> Tuple[int, int, int, int]:
+    xs = [p[0] for p in points]
+    ys = [p[1] for p in points]
+    min_x, max_x = min(xs), max(xs)
+    min_y, max_y = min(ys), max(ys)
+    return (int(min_x), int(min_y), int(max_x - min_x), int(max_y - min_y))
+
+
+def normalize_selector(target: Any) -> None:
+    if not isinstance(target, dict):
+        return
+    selector = target.get("selector")
+    if not isinstance(selector, dict):
+        return
+    if selector.get("type") != "SvgSelector":
+        return
+    value = selector.get("value")
+    if not isinstance(value, str):
+        return
+
+    points = _parse_svg_polygon_points(value)
+    if not points:
+        return
+
+    x, y, w, h = _bbox_from_points(points)
+    target["selector"] = {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": f"xywh=pixel:{x},{y},{w},{h}",
+    }
+
+
 def normalize_annotation_item(
     item: Dict[str, Any],
     page_id: str,
@@ -85,6 +137,7 @@ def normalize_annotation_item(
         item["motivation"] = "supplementing"
 
     normalize_target_source(item.get("target"), canvas_map)
+    normalize_selector(item.get("target"))
 
 
 def normalize_annotation_page(
@@ -117,8 +170,23 @@ def add_canvas_annotation(canvas: Dict[str, Any], page_id: str) -> None:
         return
     for item in existing:
         if isinstance(item, dict) and item.get("id") == page_id:
-            return
-    existing.append(entry)
+            break
+    else:
+        existing.append(entry)
+
+    seen: set = set()
+    deduped: List[Dict[str, Any]] = []
+    for item in existing:
+        if not isinstance(item, dict):
+            continue
+        item_id = item.get("id")
+        if not isinstance(item_id, str):
+            continue
+        if item_id in seen:
+            continue
+        seen.add(item_id)
+        deduped.append(item)
+    canvas["annotations"] = deduped
 
 
 def archive_manifest(manifest_path: Path, archive_dir: Path) -> None:
