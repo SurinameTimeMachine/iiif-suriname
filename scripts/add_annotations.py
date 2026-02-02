@@ -9,6 +9,9 @@ from typing import Any, Dict, Iterable, List, Optional
 
 NEW_BASE = "https://surinametimemachine.github.io/iiif-suriname/"
 CONTEXT = "https://iiif.io/api/presentation/3/context.json"
+ANNOTATION_LABEL = {
+    "en": ["HTR annotations (AI)"]
+}
 
 
 def iter_json_files(folder: Path) -> Iterable[Path]:
@@ -97,6 +100,7 @@ def normalize_annotation_page(
     page["@context"] = CONTEXT
     page["id"] = page_id
     page["type"] = "AnnotationPage"
+    page["label"] = ANNOTATION_LABEL
 
     items = page.get("items", [])
     if isinstance(items, list):
@@ -109,7 +113,7 @@ def normalize_annotation_page(
 
 
 def add_canvas_annotation(canvas: Dict[str, Any], page_id: str) -> None:
-    entry = {"id": page_id, "type": "AnnotationPage"}
+    entry = {"id": page_id, "type": "AnnotationPage", "label": ANNOTATION_LABEL}
     existing = canvas.get("annotations")
     if existing is None:
         canvas["annotations"] = [entry]
@@ -119,6 +123,8 @@ def add_canvas_annotation(canvas: Dict[str, Any], page_id: str) -> None:
         return
     for item in existing:
         if isinstance(item, dict) and item.get("id") == page_id:
+            item["type"] = "AnnotationPage"
+            item["label"] = ANNOTATION_LABEL
             break
     else:
         existing.append(entry)
