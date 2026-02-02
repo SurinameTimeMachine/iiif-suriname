@@ -159,28 +159,35 @@ def load_allmaps_links(tsv_rows: Dict[str, Dict[str, str]]) -> Dict[str, List[st
     return mapping
 
 
-def _metadata_has_label(metadata: List[Dict[str, Any]], label_text: str) -> bool:
+def _find_metadata_entry(
+    metadata: List[Dict[str, Any]],
+    label_text: str,
+) -> Optional[Dict[str, Any]]:
     for entry in metadata:
         label = entry.get("label")
         if not isinstance(label, dict):
             continue
         for values in label.values():
             if isinstance(values, list) and label_text in values:
-                return True
-    return False
+                return entry
+    return None
 
 
-def _add_metadata_value(
+def _upsert_metadata_value(
     metadata: List[Dict[str, Any]],
     label: Dict[str, List[str]],
     value: str,
+    value_lang: str = "en",
 ) -> None:
     if not value:
         return
     label_text = next(iter(label.values()))[0]
-    if _metadata_has_label(metadata, label_text):
+    entry = _find_metadata_entry(metadata, label_text)
+    if entry is None:
+        metadata.append({"label": label, "value": {value_lang: [value]}})
         return
-    metadata.append({"label": label, "value": {"en": [value]}})
+    entry["label"] = label
+    entry["value"] = {value_lang: [value]}
 
 
 def add_tsv_metadata(canvas: Dict[str, Any], row: Dict[str, str]) -> None:
@@ -188,9 +195,15 @@ def add_tsv_metadata(canvas: Dict[str, Any], row: Dict[str, str]) -> None:
     if not isinstance(metadata, list):
         metadata = []
 
-    _add_metadata_value(metadata, TSV_LABELS["tsv_id"], row.get("ID", ""))
-    _add_metadata_value(metadata, TSV_LABELS["handle"], row.get("Handle", ""))
-    _add_metadata_value(metadata, TSV_LABELS["tsv_label"], row.get("Label", ""))
+    tsv_id = row.get("ID", "")
+    handle = row.get("Handle", "")
+    label = row.get("Label", "")
+
+    _upsert_metadata_value(metadata, TSV_LABELS["tsv_id"], tsv_id, value_lang="none")
+    if handle:
+        handle_link = f"<a href=\"{handle}\">{handle}</a>"
+        _upsert_metadata_value(metadata, TSV_LABELS["handle"], handle_link, value_lang="none")
+    _upsert_metadata_value(metadata, TSV_LABELS["tsv_label"], label, value_lang="none")
 
     if metadata:
         canvas["metadata"] = metadata
