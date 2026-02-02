@@ -8,8 +8,8 @@ from typing import Any
 OLD_BASE = "https://example.org/iiif/suriname-maps/"
 LEGACY_BASE = "https://surinameTimeMachine.github.io/iiif-suriname/"
 NEW_BASE = "https://surinametimemachine.github.io/iiif-suriname/"
-NAVPLACE_CONTEXT = "http://iiif.io/api/extension/navplace/context.json"
-PRESENTATION_CONTEXT = "http://iiif.io/api/presentation/3/context.json"
+NAVPLACE_CONTEXT = "https://iiif.io/api/extension/navplace/context.json"
+PRESENTATION_CONTEXT = "https://iiif.io/api/presentation/3/context.json"
 
 
 def rewrite_strings(value: Any) -> Any:
@@ -50,7 +50,7 @@ def main() -> None:
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
 
     # Preserve navPlace support by keeping an array context.
-    manifest["@context"] = [NAVPLACE_CONTEXT, PRESENTATION_CONTEXT]
+    manifest["@context"] = [PRESENTATION_CONTEXT, NAVPLACE_CONTEXT]
 
     # Rewrite placeholder internal IDs to a stable base under GitHub Pages.
     manifest = rewrite_strings(manifest)

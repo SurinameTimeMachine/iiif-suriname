@@ -7,8 +7,8 @@ from typing import Any, Dict, List, Optional
 
 
 BASE_URL = "https://surinametimemachine.github.io/iiif-suriname/"
-NAVPLACE_CONTEXT = "http://iiif.io/api/extension/navplace/context.json"
-PRESENTATION_CONTEXT = "http://iiif.io/api/presentation/3/context.json"
+NAVPLACE_CONTEXT = "https://iiif.io/api/extension/navplace/context.json"
+PRESENTATION_CONTEXT = "https://iiif.io/api/presentation/3/context.json"
 
 PROVIDER = {
     "id": BASE_URL,
@@ -41,7 +41,7 @@ def write_json(path: Path, data: Dict[str, Any]) -> None:
 
 
 def ensure_context(manifest: Dict[str, Any]) -> None:
-    manifest["@context"] = [NAVPLACE_CONTEXT, PRESENTATION_CONTEXT]
+    manifest["@context"] = [PRESENTATION_CONTEXT, NAVPLACE_CONTEXT]
 
 
 def ensure_provider(manifest: Dict[str, Any]) -> None:
